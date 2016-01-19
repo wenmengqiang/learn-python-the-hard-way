@@ -1,0 +1,6 @@
+#encoding:utf-8
+#programmers call functions that are part of classes methods
+#__init__不应该做太多事情，这会让class
+这些人要么是一些顾问性的人物，如果别人无法使用它们的大妈，就会付更多钱给他们让他们解决问题
+写注解的时候，描述清楚为什么你要这么做。代码只会告诉你“这样实现”，而不会告诉你why，而后者比前者重要。
+注解要短小精悍
